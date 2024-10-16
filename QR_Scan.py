@@ -8,6 +8,8 @@ from pyzbar.pyzbar import decode
 
 #V2 - when scanning QR code, it will track the URL on screen real time & will give link in output box...
 
+# next version - adding a GUI to simplify the user experince when scanning QR code...
+
 def qr_code_scanner():
     cap = cv2.VideoCapture(0)
 
