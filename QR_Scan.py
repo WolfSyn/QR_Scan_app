@@ -6,7 +6,7 @@ from pyzbar.pyzbar import decode
 #program open's camera to it will scan the selected QR code you have on hand & will take you to website on that scanned QR.
 #for the momment I only have it to open camera & detect the QR - won't take you to any other website (unless it does?) 
 
-#V2 - when scanninc QR code, it will track the URL on screen real time & will give link in output box...
+#V2 - when scanning QR code, it will track the URL on screen real time & will give link in output box...
 
 def qr_code_scanner():
     cap = cv2.VideoCapture(0)
