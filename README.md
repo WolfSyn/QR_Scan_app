@@ -4,6 +4,8 @@ etc...
 
 # Future Developments
 Will be adding more features into this app- 
-* including taking you to the dedicated webpage (depedning on what does the QR Code conatin)
-* also will include the scan on the QR to take you to your designated destination.
-* More to come!
+* Adding GUI support
+* Giving you options to create your own QR with your dedicated Link
+* adding a stop button to stop using camera
+* camera tracks QR Code in realtime with a square tracking it...
+* and MORE!!!
